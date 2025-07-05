@@ -1,1 +1,1 @@
-Video Demonstration of my <strong>Garage Management System</strong>.
+Video Demonstration of my <strong>Garage Management System</strong> project.
